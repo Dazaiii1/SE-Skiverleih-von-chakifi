@@ -1,2 +1,2 @@
-# Soft-Eng-Ski-verleih-von-chakifi
+# Beschreibung
 Verleihssystem mit SDD Implementiert (Ski-Verleih)
